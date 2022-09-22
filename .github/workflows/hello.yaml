@@ -9,8 +9,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-      - uses: ./action.a
-      - uses: ./.github/workflows
-
+      - uses: ./.github/workflows/HelloWorld.cpp
       - name: complie Hello World
         run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld

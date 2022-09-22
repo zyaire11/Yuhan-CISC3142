@@ -11,5 +11,6 @@ jobs:
       - uses: actions/checkout@v2      
       - name: install cpp
         run: sudo apt install -y libcppunit-dev
+      - uses: ./.github/workflows
       - name: run
         run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld

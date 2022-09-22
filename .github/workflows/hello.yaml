@@ -1,1 +1,14 @@
- 
+name: Github action
+
+on: push
+
+jobs:
+  build:
+    name: Running Hello World
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./EX1/scr/HelloWorld.cpp
+      - name: complie Hello World
+        run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld

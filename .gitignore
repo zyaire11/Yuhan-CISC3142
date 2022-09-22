@@ -1,0 +1,4 @@
+*.o
+a.out
+README.md
+test.py

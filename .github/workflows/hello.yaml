@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v2
-      - uses: ./action-a
-      - name: complie Hello World
-        run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld
+      - uses: actions/checkout@v2      
+      - name: install cpp
+        run: sudo apt install -y libcppunit-dev
+      - name: make
+        run: make HelloWorld

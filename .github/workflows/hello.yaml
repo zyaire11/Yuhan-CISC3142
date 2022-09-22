@@ -1,0 +1,12 @@
+name: Github action
+
+on: push
+
+jobs:
+  test:
+    name: Running Hello World
+    runs-on: ubuntu-latest
+    
+    steps:
+    -uses: actions/checkout@v2
+    run: echo "HelloWorld"

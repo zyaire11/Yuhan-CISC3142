@@ -14,4 +14,4 @@ jobs:
             g++ --version
       - uses: actions/checkout@v2      
       - name: run
-        run: cd .github/workflows && g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld
+        run: cd .github/workflows && g++ -o HelloWorld HelloWorld.cpp && ./HelloWorld

@@ -3,10 +3,11 @@ name: Github action
 on: push
 
 jobs:
-  test:
+  build:
     name: Running Hello World
     runs-on: ubuntu-latest
     
     steps:
-    -uses: actions/checkout@v2
-    run: echo "HelloWorld"
+      - uses: actions/checkout@v2
+      - name: HelloWorld.cpp
+        run: echo "Hello World"

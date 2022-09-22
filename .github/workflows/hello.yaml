@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2      
       - name: install cpp
         run: sudo apt install -y libcppunit-dev
-      - name: make
-        run: make HelloWorld
+      - name: run
+        run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld

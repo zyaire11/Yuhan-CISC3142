@@ -8,9 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+      - name: compiler version
+        run: |
+            gcc --version
+            g++ --version
       - uses: actions/checkout@v2      
-      - name: install cpp
-        run: sudo apt install -y libcppunit-dev
-      - uses: ./.github/workflows
       - name: run
         run: g++ -o HelloWorld HelloWorld.cpp && .\HelloWorld

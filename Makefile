@@ -1,4 +1,4 @@
-helloworld:
+HelloWorld:
 	g++ -o HelloWorld HelloWorld.cpp && ./HelloWorld  
 
 Lab2: Ex1.5.cpp Ex1.11for.cpp Ex1.11while.cpp

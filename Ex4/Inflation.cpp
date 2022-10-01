@@ -41,4 +41,5 @@ int main(){
 
     cout << "the price of the item is " << price << endl;
     cout << "the final cost for " << num_of_pencils << " is " << num_of_pencils * price << endl;
+    return 0;
 }

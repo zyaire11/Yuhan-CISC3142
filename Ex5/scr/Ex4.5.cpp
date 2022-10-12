@@ -18,3 +18,11 @@ int main() {
 
 return 0;    
 }
+
+/*
+output:
+the answer of -30 * 3 + 21 / 5 is -86
+the answer of -30 + 3 * 21 / 5 is -18
+the answer of 30 / 3 * 21 % 5 is 0
+the answer of -30 / 3 * 21 % 4 is -2
+*/

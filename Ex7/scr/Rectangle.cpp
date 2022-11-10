@@ -28,7 +28,9 @@ class Rectangle{
         }
 
         int sameArea(Rectangle r){
-            return area() == r.area();
+            float a1 = area();
+            float a2 = r.area();
+            return a1 == a2;
         }
 };
 

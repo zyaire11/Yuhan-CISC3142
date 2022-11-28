@@ -1,0 +1,34 @@
+Month,Temp,simpleAverage
+Jan,39,39
+Feb,42,40
+Mar,50,43
+Apr,60,47
+May,71,52
+Jun,79,56
+Jul,85,60
+Aug,81,63
+Sep,76,64
+
+
+Month,Temp,Moving average
+Jan,39,
+Feb,42,
+Mar,50,44
+Apr,60,51
+May,71,60
+Jun,79,70
+Jul,85,78
+Aug,81,82
+Sep,76,81
+
+
+Month,Temp,Weighted moving average
+Jan,39,
+Feb,42,
+Mar,50,45.5
+Apr,60,52.6667
+May,71,62.0833
+Jun,79,71.2667
+Jul,85,79.1111
+Aug,81,81.7619
+Sep,76,80.2917

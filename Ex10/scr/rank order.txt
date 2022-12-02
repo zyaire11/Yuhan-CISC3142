@@ -1,0 +1,1662 @@
+Use sort to rank movies in descending order by popularity
+
+Popularity       Title
+88              Final Notice
+88              Creature from Black Lake
+88              Ballad of Narayama, The
+88              New Year's Day
+88              Five Corners
+88              Best of Times, The
+88              Dangerous Pursuit
+88              Fellini Satyricon
+88              Happy Birthday to Me
+88              Great Race, The
+88              French Connection, The
+88              They Were Expendable
+88              Class Act
+88              Long Voyage Home, The
+88              Terror, The
+88              Time Machine, The
+88              Gonzo Presents Muppet Weird Stuff
+88              Swedenhielms
+88              Jeremiah Johnson
+88              Guilty by Suspicion
+88              Blood in, Blood Out
+88              Out of Africa
+88              Raw Nerve
+88              Let It Ride
+88              Head Office
+87              B. A. D. Cats
+87              Choice of Arms
+87              Adventures of Rex & Rinty, The
+87              Star Trek V: The Final Frontier
+87              Law & Order
+87              City of Joy
+87              X, Y & Zee
+87              Superman, The Movie
+87              Jean de Florette
+87              Destroyer
+87              John Wayne Six Pack
+87              Three Days of the Condor
+87              Russkies
+87              Three Strange Loves
+86              For Your Eyes Only
+86              Fat Man & Little Boy
+86              Bliss of Mrs. Blossom, The
+86              Prince & the Pauper, The
+86              Out of the Darkness
+86              Twin Peaks
+86              Sacketts, The
+86              Fozzie's Muppet Scrapbook
+86              Libeled Lady
+86              Secret Policeman's Other Ball, The
+86              Viva Zapata!
+86              Golden Child, The
+86              Harper
+85              Party Girl
+85              Sanshiro Sugata
+85              That Lucky Touch
+85              Man from Montana
+85              Bury Me Not on the Lone Prairie
+85              Phantom of the Ritz
+85              Raven, The
+85              Man Who Shot Liberty Valance, The
+85              Daphnis & Chloe
+85              As You Desire Me
+85              Magic
+85              Inserts
+84              Ruthless People
+84              Angel & the Badman
+84              King of Comedy
+84              Catamount Killing, The
+84              D-Day, The Sixth of June
+84              My Science Project
+84              Crimes of the Heart
+84              Big Bad John
+84              Love & Death
+84              Kelly's Heroes
+84              Dick Tracy
+84              Arrowsmith
+84              Legend of the Lost
+84              Marrying Man, The
+84              She Wore a Yellow Ribbon
+84              Taps
+84              Gunfight at the OK Corral
+84              Twilight's Last Gleaming
+84              Say Goodbye Maggie Cole
+84              Surrender
+84              Othello
+83              A Clockwork Orange
+83              Doctor at Sea
+83              2001: A Space Odyssey
+83              Getting Straight
+83              Woman of Affairs
+83              Romancing the Stone
+83              Alien
+83              El Rublo de las Dos Caras
+83              A New Leaf
+83              Places in the Heart
+83              Rape of the Sabines, The
+83              Dillinger
+83              What's New Pussycat
+83              Overland Stage Raiders
+83              Two Women
+83              Ape Man, The
+83              Back Door to Heaven
+83              Swing It, Sailor!
+83              Monty Python & the Holy Grail
+83              Sting, The
+82              Fantasy Man
+82              Valkenvania
+82              Butterflies Are Free
+82              Flaming Frontiers
+82              Ugetsu Monogatari
+82              Slap Shot
+82              Who's Afraid of Virginia Woolf?
+82              Nineteen Hundred
+82              Formula, The
+82              Deer Hunter, The
+82              Manhattan
+82              Alice Doesn't Live Here Anymore
+82              Bonfire of the Vanities, The
+82              Queen Christina
+82              Burning Poles, Cecil Taylor in Performance
+82              Meet Millie
+82              Penitentiary III
+82              Woman Next Door, The
+82              Duet for One
+82              Rebel Without a Cause
+82              Aliens
+81              Persona
+81              Hanover Street
+81              Matewan
+81              Reflections in a Golden Eye
+81              L. A. Story
+81              Tormenta Sobre Arizona
+81              Monty Python Live at the Hollywood Bowl
+81              Heiress, The
+81              Grand Hotel
+81              Play It Again, Sam
+81              Day of the Locust, The
+81              Contempt
+81              Ryan's Daughter
+81              Fanny and Alexander
+81              After Hours
+81              At Play in the Fields of the Lord
+81              Dersu Uzala, (The Hunter)
+81              National Lampoon's Christmas Vacation
+81              Swing Shift
+80              Zandalee
+80              Stripped to Kill II, Live Girls
+80              Cannonball Run, The
+80              Husbands & Wives
+80              Bobo, The
+80              Mephisto
+80              War & Peace
+80              Goon Show Movie, The
+80              Statue, The
+80              Her Alibi
+80              Rodeo Girl
+80              Scarlet Street
+80              New Jack City
+80              8 1/2
+80              Hammersmith Is Out
+80              A Question of Honor
+80              It Started with a Kiss
+80              A Special Day
+80              Lolita
+80              Cleopatra
+80              Angela
+80              Check Your Guns
+80              Mr. Arkadin
+79              Crawling Hand, The
+79              Face at the Window, The
+79              Bloodsucking Pharaohs in Pittsburgh
+79              Defense of the Realm
+79              Dead Zone, The
+79              Siegfried, The Nibelungenlied
+79              Texas
+79              Silence, The
+79              True Stories
+79              Monty Python's Flying Circus, Vol 2.
+79              Lassie Come Home
+79              Predator 2
+79              Joe Kidd
+79              Russians Are Coming, the Russians Are, The
+79              A Touch of Class
+79              Rowlf's Rhapsodies with the Muppets
+79              Babette's Feast
+79              A Married Man
+79              Cheerleader Camp
+79              Arthur
+78              Delicatessen
+78              Circuitry Man
+78              Rain People, The
+78              JFK
+78              Bloodsport
+78              A Year of the Quiet Sun
+78              Return of the Lash
+78              Hot to Trot
+78              Get Out Your Handkerchiefs
+78              King of the Pecos
+78              Mo' Better Blues
+78              Wee Willie Winkie
+78              Rocky
+78              Rebecca
+78              Apache
+78              Lion in Winter, THe
+77              El Guerrero Solitario
+77              Dangerous Liaisons
+77              Asphalt Jungle, The
+77              Superman IV: The Quest for Peace
+77              Salvador
+77              Adventures of Smilin' Jack, The
+77              True Grit
+77              Range Feud
+77              Never on Tuesday
+77              Criss Cross
+77              Madonna, Justify My Love
+77              Experiment in Terror
+77              Pink Panther, The
+77              Goldfinger
+77              Ferry to Hong Kong
+77              Until They Sail
+76              Keeper of the Flame
+76              A Day in October
+76              Posse
+76              Black Sunday
+76              Blood on the Sun
+76              Absence of Malice
+76              Marathon
+76              Lodger (Story of the London Fog)
+76              Cyrano de Bergerac
+76              In Country
+76              Rooster Cogburn
+76              Reds
+76              Romulus & the Sabines
+76              Horse Soldiers, The
+76              Stealing Home
+76              Salome's Last Dance
+75              Unsettled Land
+75              Man Who Haunted Himself, The
+75              Appointment with Death
+75              Magic Christian, The
+75              Jamaica Inn
+75              Battle of Midway, The
+75              Wild Times
+75              American Autobahn
+75              Getting Physical
+75              Alone in the Dark
+75              Dodesukaden
+75              Defending Your Life
+75              Buffet Froid
+75              Crash & Burn
+75              Sara Dane
+75              Roma
+75              Wild Party, The
+75              Sea of Grass, The
+75              A Streetcar Named Desire
+75              Another You
+75              Pretty in Pink
+75              Madonna Live, The Virgin Tour
+75              Julia
+75              Randy Rides Alone
+75              Closely Watched Trains
+75              Best Defense
+75              RAD
+75              Burn!
+74              Fifth Floor, The
+74              Kagemusha
+74              Mystic Pizza
+74              Under Capricorn
+74              Why Me?
+74              Quiet Man, The
+74              Raintree County
+74              Best Friends
+74              Act of Piracy
+74              Kriemhild's Revenge, The Nibelungenlied
+74              Fighting Kentuckian, The
+74              Ciao Italia, Madonna Live from Italy
+74              Hell Comes to Frogtown
+74              Sabotage
+74              American Anthem
+74              Camille
+74              Meeting Venus
+73              Mc Q
+73              Boom Town
+73              State of Things, The
+73              Unfaithfully Yours
+73              Joyless Street
+73              Six Weeks
+73              Yesterday, Today & Tomorrow
+73              Gator Bait II
+73              Clan of the Cave Bear, The
+73              Single Standard, The
+73              Planes, Trains & Automobiles
+73              Reversal of Fortune
+73              Neath Arizona Skies
+73              Bang the Drum Slowly
+73              Ransom
+73              Frontier Horizon
+73              Black Rain
+73              Law of Desire
+73              Border Street
+72              Conformist, The
+72              Chisum
+72              Stage Fright
+72              Dirty Harry
+72              Count of Old Town, The
+72              Driver's Seat, The
+72              Sands of Iwo Jima
+72              Beat Street
+72              Novice, The
+72              Bandits of Dark Canyon
+72              Z
+72              Great McGonagall, The
+72              Mysterious Lady, The
+72              Indigo Autumn & Lilac Dream
+72              Fire, Ice & Dynamite
+72              Nightbreed
+72              Hear My Song
+72              In a Shallow Grave
+72              Flesh & the Devil, The
+72              Three Godfathers
+72              Hearts of Darkness, A Filmmaker's Apocalypse
+72              Le Dernier Combat
+71              Year My Voice Broke, The
+71              Riff Raff
+71              Programmed to Kill
+71              Mon Oncle D'Amerique
+71              Dragonfight
+71              Mysterious Mr. Wong
+71              Wings of Desire
+71              A Chorus Line, The Movie
+71              Baja Oklahoma
+71              Prettykill
+71              Assault, The
+71              Betty Blue
+71              Allnighter, The
+71              Mogambo
+71              Dear Brigitte
+71              A Dry White Season
+71              Dragonard
+71              Four Horsemen of the Apocalypse, The
+71              Killjoy
+71              Vera Cruz
+71              Accused, The
+70              Hot Line, The
+70              Sex, Lies, and Videotape
+70              Wild Orchids
+70              Eyes of the Amaryllis, The
+70              Creepshow
+70              Beartooth
+70              Dr Alien
+70              Front, The
+70              Bride Is Much Too Beautiful, The
+70              To Live & Die in L. A.
+70              Caddyshack
+70              Guys & Dolls
+70              Duke, The Films of John Wayne
+70              Il Bidone
+70              American Film Institute, Alfred Hitchcock
+70              Hot Spot
+70              A Matter of Time
+70              Shoot Loud, Louder, I Don't Understand!
+70              Flight to Fury
+69              Blame It on the Bellboy
+69              Christopher Columbus
+69              To Catch a Thief
+69              Menace on the Mountain
+69              Honkytonk Man
+69              Lethal Weapon 2
+69              Johnny Tiger
+69              Bad Seed, The
+69              Disorderlies
+69              Heat
+69              Presumed Innocent
+69              Henry, Portrait of a Serial Killer
+69              Shampoo
+69              Eiger Sanction, The
+69              Comic Relief
+69              Forgotten, The
+69              Devils, The
+69              Stromboli
+69              Fear
+69              Double Edge
+68              Hunting
+68              Jewel of the Nile, The
+68              Man with Two Brains, The
+68              Octopussy
+68              Tucker: The Man & His Dream
+68              Daffy Duck's Quackbusters
+68              Law & Jake Wade, The
+68              Hurricane Express, The
+68              Tie Me Up! Tie Me Down!
+68              Big Jake
+68              Hush, Hush, Sweet Charlotte
+68              Bataan
+68              Trash
+68              An Evening with Robin Williams
+68              Train, The
+68              Once Around
+68              Ladyhawke
+68              Wolf at the Door, The
+68              Polyester
+68              Scum
+68              High Heels
+68              Annie Hall
+68              Glass Menagerie, The
+68              Good, the Bad & the Ugly, The
+67              Diary of a Hitman
+67              Jay Leno: The American Dream
+67              Cactus Flower
+67              Bedazzled
+67              Spartacus
+67              Mata Hari
+67              Hang 'em High
+67              On a Clear Day You Can See Forever
+67              A Cry in the Dark
+67              Matchmaker, The
+67              Hair
+67              Man Who Loved Women, The
+67              Dangerous When Wet
+67              Lost Boys, The
+67              Go Tell the Spartans
+67              Tartuffe
+67              48 Hrs.
+67              Experts, The
+66              Prize, The
+66              Dreams Lost, Dreams Found
+66              On Her Majesty's Secret Service
+66              Devil's Wanton, The
+66              Pepi Luci Bom
+66              Fabulous Baker Boys, The
+66              Last Metro, The
+66              Without Love
+66              Law of the Lash
+66              Dogfight
+66              Number Seventeen
+66              Ambassador Bill
+66              About Last Night
+66              Going Places
+66              Crisis
+66              In Harm's Way
+66              White Hunter, Black Heart
+66              Roxanne
+66              Women, The
+66              Inspiration
+66              Firehouse
+66              Secrets of Women
+66              Crocodile Dundee
+66              Killer's Kiss
+66              Men Don't Leave
+66              Blackboard Jungle, The
+66              Baby Face
+66              Steel Magnolias
+65              Howie Mandel's North American Watusi Tour
+65              Willy Wonka & the Chocolate Factory
+65              Devil's Disciple, The
+65              Tomorrow Is Forever
+65              Bad Sleep Well, The
+65              Life & Times of Judge Roy Bean, The
+65              Mackintosh Man, The
+65              Back to the Future II
+65              How to Marry a Millionaire
+65              Going Ape
+65              Women on the Verge of a Nervous Breakdown
+65              Fast Times at Ridgemont High
+65              Streets of Fire
+65              Loulou
+65              National Enquirer, The Untold Story
+65              All the Right Moves
+65              Manxman, The
+65              Blue Iguana, The
+65              To Joy
+64              Through a Glass Darkly
+64              Norma Rae
+64              Rio Grande
+64              Susan Lennox, Her Fall & Rise
+64              Apprenticeship of Duddy Kravitz, The
+64              Grease II
+64              Trip, The
+64              Blind Man's Bluff
+64              Coma
+64              One Woman or Two
+64              Sheltering Sky, The
+64              Sophie's Choice
+64              Firefox
+64              Brannigan
+64              Major League
+64              Doc Hollywood
+63              Madonna, Like a Virgin
+63              Next of Kin
+63              Running Mates
+63              Postcards from the Edge
+63              Monty Python's Flying Circus, Vol 3.
+63              Gosta Berling's Saga
+63              Carlton-Browne of the F.O.
+63              I Confess
+63              My Blue Heaven
+63              Boy in Blue, The
+63              Juggernaut
+63              Ugly American, The
+63              Is Paris Burning?
+63              Dreamscape
+62              Live & Let Die
+62              Goalie's Anxiety at the Penalty Kick, The
+62              Start the Revolution Without Me
+62              Into the Night
+62              Audrey Rose
+62              Looker
+62              Peggy Sue Got Married
+62              Outlaw Country
+62              Rumor Mill, The
+62              Last Picture Show, The
+62              Fall of the Roman Empire, The
+62              John Cleese on How to Irritate People
+62              Adam's Rib
+62              Last Ride of the Dalton Gang, The
+62              Mama's Dirty Girls
+62              Smith!
+62              Trip to Bountiful, The
+62              Inauguration of the Pleasure Dome
+62              Tentacles
+62              Arrogant, The
+62              Ffolkes
+62              Whose Life Is It, Anyway?
+62              Seventh Seal, The
+62              Everybody's All American
+62              Virus
+62              Donovan's Reef
+62              Cat Ballou
+62              Romance
+61              Back in the U.S.S.R.
+61              Freaks
+61              One Crazy Summer
+61              Wild Frontier, The
+61              Tender Mercies
+61              Gremlins 2: The New Batch
+61              Falcon & the Snowman, The
+61              Death Becomes Her
+61              Foreign Correspondent
+61              A Little Night Music
+61              Giant
+61              Hawk of Powder River
+61              Fatal Attraction
+61              Crazy People
+61              Heartbreak Ridge
+61              Flying Tigers
+61              Storm
+61              Private Benjamin
+61              A Fistful of Dollars
+60              Beguiled, The
+60              Cancel My Reservation
+60              Clara's Heart
+60              Ladies of the Chorus
+60              Alfred Hitchcock Presents, Sorcerer's Apprentice
+60              After the Fox
+60              Funny about Love
+60              Necessary Roughness
+60              A Child Is Waiting
+60              Yojimbo
+60              Alien: resurrection
+60              Throne of Blood
+60              Doors, The
+60              Crimson Pirate, The
+60              Ten
+60              A Nous la Liberte
+60              Children's Hour, The
+60              Gary Numan - Berzerker
+60              Secret Ceremony
+60              Only Way Home, The
+59              Sound of Music, The
+59              Alien Three
+59              Conversation, The
+59              World According to Garp, The
+59              Those Daring Young Men in Their Jaunty
+59              J-Men Forever
+59              Rashomon
+59              Sleeper
+59              After School
+59              Police Academy 5: Assignment Miami Beach
+59              March or Die
+59              Reap the Wild Wind
+59              Witness
+59              Cabaret
+59              Born to Ride
+59              Rocky Horror Picture Show, The
+59              Seizure
+59              Gung Ho
+58              From the Life of the Marionettes
+58              Desperate Hours
+58              Smiles of a Summer Night
+58              Cowboys, The
+58              Pope of Greenwich Village
+58              Prisoner of Honor.
+58              John Wayne Four Pack
+58              Diamond Trap, The
+58              Teen Wolf
+58              Memoirs of an Invisible Man
+57              Voyage in Italy
+57              Made in Heaven
+57              Cobra
+57              Painted Veil, The
+57              Lust for Gold
+57              Brink of Life
+57              Gilda
+57              Lady in Question
+57              Dear America, Letters Home from Vietnam
+57              High Plains Drifter
+57              Coogan's Bluff
+57              Harry & Son
+57              A Month in the Country
+57              Bronco Billy
+57              Where Eagles Dare
+57              Until the End of the World
+57              Heartburn
+57              Rich & Strange
+56              Separate but Equal
+56              Somebody up There Likes Me
+56              Accidental Tourist, The
+56              Best of Eddie Murphy, Saturday Night Live, The
+56              Psycho
+56              Mummy's Revenge, The
+56              Courage
+56              Long John Silver
+56              Outsiders, The
+56              Cannibal Women in the Avocado Jungle of Death
+55              Pocket Money
+55              Not Without My Daughter
+55              Chinatown
+55              Tightrope
+55              Dracula's Widow
+55              Deceived
+55              Man of La Mancha
+55              Don Juan
+55              Scarlet Letter, The
+55              Cloak & Dagger
+55              Secret Admirer
+54              Flame of Barbary Coast
+54              Madonna, Truth or Dare
+54              Up the Creek
+54              America's Music, Blues
+54              Island of Dr. Moreau, The
+54              Father of the Bride
+54              Black Widow
+54              Green Glove
+54              White Lightning
+54              Les Comperes
+54              Between Friends
+54              Looking for Mr. Goodbar
+54              Local Hero
+54              Another Forty-Eight Hours
+54              Paris Blues
+54              Two Nights with Cleo
+54              Black Orchid, The
+54              Whoopee Boys, The
+54              Rawhide, Premiere Episode
+54              Ash Wednesday
+54              Deadly Trackers
+54              A Coeur Joie, (Head Over Heels)
+54              Mosquito Coast, The
+54              Mummy's Hand, The
+53              See You in the Morning
+53              Rainbow, The
+53              On Wings of Eagles
+53              Allegheny Uprising
+53              Honeymoon in Vegas
+53              Yol
+53              Throwback, The
+53              High Spirits
+53              Paris Trout
+53              Miles from Home
+53              Brass Target
+53              To Die Standing
+53              Complete Dirty Harry, Magnum Force, The
+53              Protocol
+53              A New Life
+52              Barbarian & the Geisha, The
+52              Mystery of the Hooded Horsemen
+52              Silkwood
+52              Survivors, The
+52              Dial M for Murder
+52              Blood Feud
+52              Heller in Pink Tights
+52              Branford Marsalis, Steep
+52              Dark Command
+52              Nuts
+52              Split Decisions
+52              Nobody's Fool
+52              Slightly Scarlet
+52              Between Two Women
+52              Father's Little Dividend
+51              Lindbergh Kidnapping Case, The
+51              Killing, The
+51              Eddie Murphy Raw
+51              Lovesick
+51              Jack Benny Show
+51              Beyond the Limit
+51              Flight of the Intruder
+51              Brood, The
+51              Return of Martin Guerre, The
+51              Range Feud, The
+51              A Shot in the Dark
+51              A Patch of Blue
+51              Breathless
+51              Lean on Me
+51              Northwest Passage
+51              Bodycount
+51              We're No Angels
+51              Desk Set
+51              Shirley Valentine
+50              Final Analysis
+50              Night Tide
+50              Catch Twenty-Two
+50              Guess Who's Coming to Dinner
+50              Racing with the Moon
+50              Hombre
+50              Rhapsody in August
+50              Amarcord
+50              Torpedo Run
+50              Come Back, Little Sheba
+50              Murder
+50              Big Bust Out, The
+50              Wild Bunch, The
+50              Tequila Sunrise
+50              Julius Caesar
+50              Tin Men
+50              Surf Nazis Must Die
+50              In Too Deep
+50              Secret Agent
+50              Soggy Bottom U. S. A.
+50              Desert Trail, The
+49              Down by Law
+49              Seems Like Old Times
+49              State of Grace
+49              Hard To Kill
+49              Vagabond
+49              Affair in Trinidad
+49              Triumph of the Spirit
+49              John Wayne Collection, Red River, The
+49              Seven Minutes in Heaven
+49              Vampire's Kiss
+49              A Woman's Face
+49              Autumn Sonata
+49              A Man & a Woman: Twenty Years Later
+49              What Comes Around
+49              Sophia Loren, Her Own Story
+49              Metropolis
+49              Spies
+49              Cool Hand Luke
+49              Industrial Symphony, The Dream of the Broken-Hearted
+49              PK. & the Kid.
+49              Quackser Fortune Has a Cousin in the Bronx
+48              Pat & Mike
+48              White of the Eye
+48              Siesta
+48              Rookie, THe
+48              Buddy System, The
+48              Lucky Texan
+48              Network
+48              Track Twenty-Nine
+48              Big Bands, The
+48              One Hundred Rifles
+48              Erasure, Live Wild!
+48              Duel
+48              Fury
+48              A Lesson in Love
+48              Misery
+48              Loves of Carmen, The
+47              Chuka
+47              Paths of Glory
+47              Instant Karma
+47              Young Love: Lemon Popsicle Seven
+47              Play Misty for Me
+47              Attack of the Killer Tomatoes
+47              Trick or Treat
+47              Water
+47              Nadine
+47              Alrededor de Medianoche
+47              Young Einstein
+47              Straight to Hell
+47              Meridian
+47              Santee
+46              Yentl
+46              Sun Shines Bright, The
+46              Foul Play
+46              Paint Your Wagon
+46              Fawlty Towers, Gourmet Night, Waldorf Salad & The Kipper & the Corpse
+46              A Man & a Woman
+46              What's New Pussycat?
+46              Last Hurrah, The
+45              Macbeth
+45              Pale Rider
+45              Case of the Mukkinese Battle Horn, The
+45              Competition, The
+45              Cocoon
+45              Spider's Stratagem
+45              Back to the Beach
+45              Marbella
+45              House of the Rising Sun
+45              Full Metal Jacket
+45              Easy Virtue
+45              Conan the Barbarian
+45              Under the Sun of Satan
+45              Inside Man, The
+45              Pleasure Palace
+45              Thirty Seconds over Tokyo
+45              Maurice
+45              Ticket of Leave Man, The
+45              All the President's Men
+45              How the West Was Won
+45              Instant Justice
+44              Burglar
+44              Cool World
+44              Encounters
+44              And Now for Something Completely Different
+44              Spencer Tracy Legacy, The
+44              Hot Pursuit
+44              Rebel Rousers
+44              Star Wars
+44              Dawn Rider, The
+44              Hand, The
+44              Wings
+44              Cimarron
+44              Doin' Time on Planet Earth
+44              Jane Eyre
+44              A View to a Kill
+44              Joe Piscopo Video, The
+44              Darling
+43              Night Train to Katmandu, THe
+43              Blood & Guns
+43              Courtship of Eddie's Father, The
+43              Jet Pilot
+43              Young & Innocent
+43              Cookie
+43              She-Devil
+43              West to Glory
+43              Power
+43              Hustler, The
+43              China Syndrome, The
+43              Pretty Woman
+43              Border Feud
+42              Adventures of Sherlock Holmes' Smarter
+42              World's Greatest Lover, The
+42              Souvenir
+42              Hideaways, The
+42              Good Father, The
+42              Legend
+42              Notorious
+42              Center of the Web
+42              Burbs, The
+42              A Guy Named Joe
+42              Still of the Night
+42              Permanent Record
+42              Harvey
+42              Wild Strawberries
+42              Garden of the Finzi-Continis, The
+41              Kings of the Road (In the Course of Time)
+41              Desperately Seeking Susan
+41              Kissing Place, The
+41              Angelic Conversation, The
+41              There's a Girl in My Soup
+41              Critical Condition
+41              Mississippi Burning
+41              Innerspace
+41              Welcome Home, Roxy Carmichael
+41              Castaway
+41              Beverly Hills Cop
+41              Hard Choices
+41              Kitchen Toto, THe
+41              Hollywood's Greatest War Movies
+41              Nightmare on Elm Street, Pt. 5, The Dream Child
+41              Sicilian, The
+41              Basic Instinct
+41              Man with the Golden Gun, The
+41              Kandyland
+40              Shadows of the West
+40              International Velvet
+40              I Love All of You (Je Vous Aime)
+40              Stir Crazy
+40              Ninotchka
+40              Once upon a Wheel
+40              Mother Lode
+40              Paramount Comedy Theater: Well-Developed
+40              Man Who Loved Cat Dancing, The
+40              Slumber Party Massacre III
+40              Quick & The Dead, The
+40              Miami Cops
+40              Persuaders, The Overture, The
+40              Gold of Naples, The
+40              Last of the Red Hot Lovers
+40              Wrong Box, The
+40              Idiot, The
+40              Red Sonja
+40              Maximum Overdrive
+39              Island of Dr. Moreau, The
+39              Maitresse
+39              Christopher Columbus: The Discovery
+39              Hamlet
+39              Ms. Don Juan
+39              Rome Adventure
+39              Fellow Traveller
+39              Rope
+39              Official Story, The
+39              Tom Jones
+39              American Graffiti
+39              Judgment at Nuremberg
+39              Legal Eagles
+39              Monster in the Closet
+39              Victory
+39              Last of Sheila, The
+38              Charly
+38              West Side Story
+38              Lady from Louisiana
+38              Campus Man
+38              Heavens Above
+38              Blue City
+38              Runaway Barge, The
+38              James Taylor in Concert
+38              Naked Night, The
+38              White Sands
+37              French Lieutenant's Woman, The
+37              Road to Hong Kong
+37              Shop on Main Street, The
+37              Bloodbath
+37              Good Morning, Vietnam
+37              That Naughty Girl
+37              Beverly Hills Cop II
+37              Fuzz
+37              Hour of the Wolf
+37              Operation Nam
+36              Green Berets, The
+36              Woman Times Seven
+36              Germicide
+36              Videodrome
+36              Wheel of Fortune
+36              Easy Rider
+36              Mistress
+36              Midway
+36              Lilies of the Field
+36              Hard Ticket to Hawaii
+36              Ikiru
+36              Two Mules for Sister Sara
+36              From the Hip
+36              Unnamable II, The Statement of Randolph Carter, The
+36              Secret Policeman's Private Parts, The
+36              Bobby Deerfield
+36              Under Cover
+36              People, The
+36              Samson & Delilah
+36              Kids & Pesticides
+35              Lawless Frontier, The
+35              Matt Talbot
+35              Final Countdown, The
+35              American Friend, The
+35              Seventh Cross, The
+35              Torn Curtain
+35              Au Revoir les Enfants
+35              Fighting Seabees, The
+35              Sunshine Boys, The
+35              Anna Karenina
+35              Snow Kill
+35              Burnt Offerings
+35              Mutiny on the Bounty
+35              Too Beautiful for You
+35              Return of October
+35              Grim Reaper, The
+34              Caddyshack 2
+34              Yellowbeard
+34              Manhunt, The
+34              Matador
+34              Steve Martin, The Funnier Side of Eastern Canada
+34              Dragon Seed
+34              Rabid
+34              For a Few Dollars More
+34              Into the Homeland
+34              Ravishing Idiot, The
+34              Naked Truth, The
+34              Voyage of the Damned
+34              Europa Fifty-One
+34              Electric Horseman, The
+34              Quiller Memorandum, The
+33              Casablanca Express
+33              All New Tales from the Crypt, A Trilogy
+33              Tempest
+33              Elena & Her Men
+33              Empire Strikes Back, The
+33              Midnight Cowboy
+33              Scalphunters, The
+33              Monty Python's the Meaning of Life
+33              Hunchback
+33              Napoleon & Samantha
+33              Pals of the Saddle
+33              Court-Martial of Jackie Robinson, The
+33              Producers, The
+33              Fly, The
+33              One Frightened Night
+33              After Dark My Sweet
+32              Freshman, The
+32              Apache Woman
+32              Let It Rock
+32              Rachel, Rachel
+32              Party, The
+32              My Left Foot
+32              Shining, The
+32              Immaculate Collection, The
+32              Camille Claudel
+32              Passenger, The
+32              Unforgiven, The
+32              Terms of Endearment
+32              Walpurgis Night
+32              Last Temptation of Christ, The
+32              Jubal
+32              Moonraker
+32              Intermezzo
+32              Scanners
+32              Ironweed
+32              Shadow of a Doubt
+31              Ranger of the Cherokee Strip
+31              North to Alaska
+31              Night Gallery
+31              Being There
+31              Secret Beyond the Door
+31              No Regrets for Our Youth
+31              Roller Blade
+31              Falling in Love
+31              Juice
+31              Cyborg
+31              Stacey!
+31              Running Man, The
+31              Shock 'em Dead
+31              My Best Girl
+31              Gangbusters
+31              Little Prince, The
+31              Bells of St. Mary's, The
+31              Think Dirty
+30              Wagon Master
+30              Chattahoochee
+30              Funny Girl
+30              Funny Farm
+30              Bright Lights, Big City
+30              Tom Thumb
+30              Riders of Destiny
+30              A Very Private Affair
+30              Valley Girl
+30              John Wayne Matinee Double Feature, No. 1
+30              Amazon
+30              Going Under
+30              Missing
+30              Winter People
+29              Culpepper Cattle Company, The
+29              Ginger & Fred
+29              Exorcist II, The Heretic
+29              Wait Until Spring Bandini
+29              And God Created Woman
+29              Fiendish Plot of Dr. Fu Manchu, The
+29              Monte Walsh
+29              French Lesson
+29              Mr. & Mrs. Bridge
+29              Spiders
+29              Moon in the Gutter, The
+29              Saint, The
+29              Alamo, The
+29              Wings of Eagles, The
+29              Money, The
+29              Dead Ringers
+29              Butch Cassidy & the Sundance Kid
+29              Circus World
+29              Prom Night III, The Last Kiss
+29              Port of Call
+29              Police Academy 6: City under Siege
+28              After the Shock
+28              Neath the Arizona Skies
+28              Cousins
+28              Trouble with Harry, The
+28              Ladykillers, The
+28              Sugarland Express, The
+28              Father Murphy, A Horse from Heaven
+28              Exorcist, The
+28              Thirty Is a Dangerous Age, Cynthia
+28              Drowning by Numbers
+28              Magnum Force
+28              QB VII
+28              Secret War of Harry Frigg, The
+28              Cadillac Man
+28              John Wayne Matinee Double Feature, No. 4
+28              Last Tango in Paris
+28              Patriot Games
+28              American Angels: Baptism of Blood, The
+28              Elvira Madigan
+28              Stewardess School
+28              Risky Business
+28              Doughnuts & Society
+27              Outer Limits, The
+27              Human Desire
+27              Gardens of Stone
+27              Stark
+27              Control
+27              In Old California
+27              Lone Star Trail, The
+27              Glory Stompers, The
+27              Lady Vanishes
+27              Men, The
+27              Hollywood Out-Takes & Rare Footage
+27              Pet Sematary
+27              Dakota
+27              Paris, Texas
+27              U S. Sub Standard.
+27              Silent Movie
+27              Spy Who Loved Me, The
+26              Only One Night
+26              Wild One, The
+26              Greatest Story Ever Told, The
+26              Woman Who Came Back
+26              Return Engagement
+26              Naked Obsession
+26              Dead Pool, The
+26              Long Gray Line, The
+26              Great White Death
+26              Rocket Gibraltar
+26              Maverick, Duel at Sundown
+26              Left Handed Gun, The
+26              One Eyed Jacks
+26              Empire of Spiritual Ninja
+26              Partner
+26              Freejack
+26              Salsa: The Motion Picture
+26              Powderkeg
+26              Ride in the Whirlwind
+25              Hearts of Fire
+25              Survival Zone
+25              Street People
+25              Wrong Arm of the Law, The
+25              Raging Bull
+25              Philadelphia Story, The
+25              Bounty, The
+25              Mademoiselle Striptease
+25              Gaslight
+25              Boy Who Could Fly, The
+25              Prizzi's Honor
+25              Nothing But Trouble
+25              Green Card
+25              Rear Window
+25              Wisdom
+25              Working Girl
+25              Today We Kill....Tomorrow We Die
+25              Erik the Viking
+25              Violent Men, The
+25              Crack-Up
+25              Wholly Moses!
+24              Monty Python's Flying Circus, Vol 1.
+24              Postman Always Rings Twice, The
+24              Night on Earth
+24              Black & White in Color
+24              Smallest Show on Earth, The
+24              Strange Brew
+24              Scream
+24              Nineteen Forty-One
+24              Fair Game
+24              Anastasia
+24              Killer Tomatoes Strike Back
+24              Savage Intruder, The
+24              Bird
+24              La Chevre, (The Goat)
+24              Seven Sinners
+24              A Certain Sacrifice
+24              John Wayne Matinee Double Feature, No. 3
+24              Final Terror, The
+24              Lonely Passion of Judith Hearne, The
+24              Quick Change
+23              Squeeze, The
+23              I Died a Thousand Times
+23              Class of 1984
+23              Colors
+23              On Golden Pond
+23              Impulse
+23              Shakespeare Series
+23              Twins
+23              Mannequin
+23              Intimate Stranger
+23              A Smoky Mountain Christmas
+23              I'm All Right Jack
+23              Sagebrush Trail
+23              All about Eve
+23              Hell Town
+23              Mystery Train
+23              Othello, The Lost Masterpiece
+23              Girl from Petrovka, The
+23              Barfly
+23              Raising Arizona
+23              Flying Leathernecks
+22              John Wayne Western Greats, Rio Bravo
+22              Jerk, The
+22              Last Movie, The
+22              Bloopers from Star Trek
+22              Big Trail, The
+22              Wildcats
+22              Hollywood Mavericks
+22              Escape from Alcatraz
+22              Little Women
+22              Alice
+22              Hellfighters
+22              Code Name, Emerald
+22              Altered States
+22              Desiree
+21              Ratings Game, The
+21              They Came from Within
+21              Rainmaker, The
+21              Fighting Vigilantes, The
+21              Orphans
+21              Boys Town
+21              Second Coming of Suzanne., The
+21              Wild Geese, The
+21              Super Duper Bloopers
+21              My Life As a Dog
+21              Elizabeth Taylor Collection, The
+21              My Country Right or Wrong
+20              Masculine Feminine
+20              A Stolen Life
+20              Picasso Trigger
+20              Puppet Master
+20              Children of a Lesser God
+20              Best of the Big Laff Off, The
+20              Vincent, Francois, Paul & the Others
+20              Wait Until Spring, Bandini
+20              Mission, The
+20              La Dolce Vita
+20              Purple Rose of Cairo, The
+20              Gotta Dance, Gotta Sing
+20              A Man for All Seasons
+20              Like Father Like Son
+20              Endless Love
+20              Devil's Eye, The
+20              North by Northwest
+20              King Kong Lives!
+20              Steppenwolf
+20              Roadhouse Sixty-Six
+19              Sayonara
+19              Flatliners
+19              Skull
+19              Flashback
+19              Crashing Thru
+19              Dollar
+19              Hot Money
+19              Quintet
+19              Manhunter
+19              Stand & Deliver
+19              Shadow of the Eagle, The
+19              Adventures in Dinosaur City
+19              Big Fix, The
+19              Edison the Man
+19              Santa Claus, The Movie
+18              Witches, The
+18              Women in Love.
+18              Comedy Tonight
+18              Inherit the Wind
+18              Cries & Whispers
+18              Bold Frontiersman, The
+18              Gauntlet, The
+18              School Daze
+18              Old Maid, The
+18              Catch a Rising Star, Tenth Anniversary
+18              She's Having a Baby
+18              Modern Love
+17              So Fine
+17              Hiroshima
+17              Heroes
+17              Crackers
+17              Riders of Pasco Basin
+17              Big Top Pee-wee
+17              Night Is My Future
+17              Tex Rides with the Boy Scouts
+17              Frantic
+17              Terminator, The
+17              Bloody Mama
+17              Business As Usual
+17              Joe Versus the Volcano
+17              Strangers on a Train
+17              Tragedy of a Ridiculous Man
+17              Cocaine Cowboys
+16              Young Sherlock Holmes
+16              Lair of the White Worm, The
+16              Twenty Four Hours in a Woman's Life
+16              Wise Guys
+16              Hideaways
+16              Voulez-Vous Danser Avec Moi?
+16              Running Out of Luck
+16              Hurricane Smith
+16              Red River
+16              Some Kind of Wonderful
+16              Ensign Pulver
+16              Yakuza, The
+16              Thunderbolt & Lightfoot
+16              Lady from Shanghai
+15              Vampire Raiders, Ninja Queen
+15              Appaloosa, The
+15              Scrooged
+15              Klute
+15              Ninja Masters of Death
+15              Good Fellas
+15              Man Who Knew Too Much, The
+15              A Woman Called Golda
+15              Blood Alley
+15              Love Songs
+15              Le Choix des Armes
+15              Deep Cover
+14              Fourth Protocol, The
+14              Almost an Angel
+14              Broadway Danny Rose
+14              Dreams
+14              Target Eagle
+14              Big Jim McLain
+14              Pelle the Conqueror
+14              Days of Heaven
+14              June Night
+14              Beauty & the Beast
+14              Reckless
+14              Batman
+14              Joe Piscopo New Jersey Special
+14              Deceivers, The
+14              Housesitter
+13              America's Music, Gospel
+13              Death of a Salesman
+13              Test Pilot
+13              Desire under the Elms
+13              Stakeout
+13              Cocktail
+13              Bill Cosby, Live at Harrah's
+13              Last Time I Saw Paris, The
+13              Judgement in Berlin
+13              Cry of the Innocent
+13              Sounds of the Seventies...& the Beat Goes
+13              Exodus
+13              Golden Ninja Invasion
+12              Minsky's Follies
+12              A Big Hand for the Little Lady
+12              Prisoner of Zenda, The
+12              My Darling Clementine
+12              Penn & Teller Get Killed
+12              Sweet Smell of Success
+12              Pink Cadillac
+12              Sweet Liberty
+12              Topaz
+12              Lady for a Night
+12              Little Dorrit
+12              Exile in Concert
+12              Ferris Bueller's Day Off
+12              Cahill, United States Marshal
+12              Best of Candid Camera, The
+12              Woman of the Year
+11              Big Town, The
+11              Monty Python's Life of Brian
+11              Shining Through
+11              No Mercy
+11              Tom Sawyer
+11              Stanley & Livingstone
+11              Harlem Nights
+11              Clint Eastwood Collection, The
+11              Hawks
+11              Killers of Kilimanjaro
+11              California Suite
+11              Summer
+11              Bloodbrothers
+11              Casino Royale
+11              Elephant Walk
+11              Madame Rosa
+11              Coming to America
+11              Sundays & Cybele
+11              Star Trek VI: The Undiscovered Country
+11              Teahouse of the August Moon
+10              Life with Father
+10              If Looks Could Kill
+10              El Cid
+10              Blame It on Rio
+10              Rain Killer, The
+10              Clockwise
+10              Fire & Rain
+10              Mr Love.
+10              Carnal Knowledge
+10              Frisco Kid, The
+10              No Small Affair
+10              Young Lions, The
+10              Vertigo
+10              Day for Night
+10              Going for the Gold
+10              My Fair Lady
+10              Kiss of the Spider Woman
+10              Final Alliance, The
+9              Seven Samurai
+9              Boxing Babes
+9              Death Valley Days, Deadly Decision
+9              Eighty-Four Charing Cross Road
+9              Fire with Fire
+9              Searchers, The
+9              Deadline
+9              Hannie Caulder
+9              Bandolero!
+9              Lionheart
+9              Back to the Future
+9              Plenty
+9              Tango & Cash
+9              Basil The Rat
+9              Morituri
+9              Naked Gun: From the Files of Police Squad!, THe
+9              Glitz
+9              Masque of the Red Death
+9              Dead-Bang
+9              Judge Priest
+8              Patton
+8              Hunt for Red October, The
+8              Indiana Jones & the Last Crusade
+8              Platoon
+8              Lawless Frontier
+8              Dead Poets Society
+8              New York, New York
+8              Fisher King, The
+8              Name of the Rose, The
+8              Top Gun
+8              Thunderball
+8              Robin Hood: Prince of Thieves
+8              Killer Image.
+8              Murder on the Orient Express
+8              Hannah & Her Sisters
+8              Bullseye!
+8              Le Repos Du Guerrier, (Warrior's Rest)
+8              Virgin Spring, The
+8              Hurricane
+8              Dances with Wolves
+8              E. T. The Extra-Terrestrial
+8              Never Say Never Again
+8              Silence of the Lambs, The
+8              Tootsie
+8              Boy Friend, THe
+8              Terminator 2
+8              Rain Man
+8              Diamonds are Forever
+8              Romantic Comedy
+8              Kramer vs. Kramer
+8              Total Recall
+8              Firemen's Ball, The
+8              Addams Family, The
+8              Mister Roberts
+8              Scenes from a Mall
+8              Torn Apart
+8              Married to the Mob
+8              Born on the Fourth of July
+8              Thirty-Nine Steps, The
+8              Awakenings
+8              Godfather, The
+8              Godfather, Pt 2., The
+8              Torment
+8              Apocalypse Now
+8              Highlander
+8              Hawaii
+8              Witches of Eastwick, The
+8              Pioneer Marshal
+8              Packin' It In
+8              Raiders of the Lost Ark
+7              Battleground, The
+7              Naked Lie
+7              Bad Boys
+7              Two-Way Stretch
+7              Appointment in Honduras
+7              Cape Fear
+7              Another Woman
+7              Gandhi
+7              Great Train Robbery, The
+7              A Fish Called Wanda
+7              Shy People
+7              Paper Chase, The
+7              Bellboy & the Playgirls, The
+7              Dr. No
+7              Longest Day, The
+7              Untouchables, The
+7              Big Blue, The
+7              Outland
+7              Sometimes a Great Notion
+7              Bedtime Story
+7              Dangerous Moves
+7              Red Tent, The
+7              Blind Date
+7              Nine & a Half Weeks
+7              Border Shootout
+7              Hurricane Express
+7              Joan of Arc
+7              Priceless Beauty
+6              Swing It Sailor!
+6              Offence, The
+6              House on Carroll Street, The
+6              Wild at Heart
+6              Robin & Marian
+6              I Will, I Will...For Now
+6              Crossing Delancey
+6              Overboard
+6              Ghost
+6              Live at Harrah's
+6              Cat Chaser
+6              Color of Money, The
+6              Goodbye Girl, The
+6              From Russia with Love
+6              Wall Street
+6              Hallelujah Trail, The
+6              What about Bob?
+6              Morning After, The
+6              Police Academy 3: Back in Training
+6              Jaws
+6              Un Hombre y una Mujer
+6              Blue Velvet
+6              End of Innocence, The
+6              Medicine Man
+6              Goodbye Again
+6              Driving Miss Daisy
+6              Passion of Anna, The
+6              Sammy & Rosie Get Laid
+6              A Fine Madness
+6              Executive Action
+6              Amadeus
+6              Vanishing Westerner
+6              Eddie Murphy, Delirious
+6              Subway
+6              Cuba
+6              Chariots of Fire
+6              Man Who Would Be King, The
+6              Killing Fields, The
+6              Sanjuro
+6              Will Rogers, Look Back in Laughter
+6              Moonstruck
+6              Zardoz
+6              Quo Vadis
+6              La Femme Nikita
+6              Garrison Keillor's Home
+6              Empire of the Sun
+6              New York Stories
+6              Web of Deceit
+5              Tommy
+5              Nights in White Satin
+5              Time Bandits
+5              Van, The
+5              Never Let Go
+5              Family Business
+5              Rita, Sue & Bob Too
+5              Do the Right Thing
+5              Casino
+5              Enemies, a Love Story
+5              Operation Pacific
+5              McQ
+5              Trapper County War
+5              Comfort of Strangers, The
+5              Unbearable Lightness of Being, The
+5              Secret of My Success, The
+5              Sword of the Valiant
+5              Danton
+5              Big Shots
+5              Time Lock
+5              Meteor
+5              Shooting Elizabeth
+4              Terrorists, The
+4              Tonight for Sure
+4              Testament of Dr. Mabuse, The
+4              What Price Glory?
+4              Robin Williams
+4              Return of the Jedi
+4              Le Charme Discret de la Bourgeoisie
+4              Out of the Blue
+4              Losin' It
+4              Modern Times
+4              Monty Python's Flying Circus
+4              Rumble Fish
+4              Hook
+4              Presidio, The
+4              Magic Town
+4              Plain Clothes
+4              Fort Apache
+4              Crimes of Passion
+4              Sea Chase, The
+4              Another Time, Another Place
+3              Scenes from a Marriage
+3              Elephant Man, The
+3              Molly Maguires, The
+3              Two Jakes, The
+3              Internal Affairs
+3              Lawless Nineties, The
+3              Hope & Glory
+3              Four American Composers
+3              Fortune Cookie, The
+3              O. C. & Stiggs
+3              Alan & Naomi
+3              Russia House, The
+3              Magician, The
+3              Adam at 6 A.M.
+3              John Wayne Matinee Double Feature, No. 2
+3              Strictly Business
+3              John Wayne Collector's Limited Edition
+3              Fugitive Kind, The
+3              River's Edge
+3              Dark Age
+3              Mr. & Mrs. Smith
+3              Steve Martin Live!
+3              His Majesty O'Keefe
+3              Star Chamber, The
+3              Primal Rage
+3              This Is Horror
+3              Johnny Dangerously
+3              Paper Moon
+3              Days of Thunder
+2              Five Easy Pieces
+2              Wind & the Lion, The
+2              Taming of the Shrew, The
+2              Running on Empty
+2              Mary White
+2              Treasure Seekers, The
+2              Tokyo Pop
+2              So Ends Our Night
+2              Winter Light
+2              A Walk in the Spring Rain
+2              Marnie
+2              Eraserhead
+2              Blackmail
+2              Racketeer
+2              Hud
+2              Out for Justice
+2              Gor
+2              Reuben, Reuben
+2              Hoosiers
+2              Running Away
+2              Curly Sue
+1              Law of the Golden West
+1              Dead Calm
+1              A Show of Force
+1              An Officer & a Gentleman
+1              Operation Crossbow
+1              Indiscreet
+1              Conversation Piece
+1              Cheyenne, The Iron Trail
+1              Blade Runner
+1              Hells Angels on Wheels
+1              Anderson Tapes, The
+1              Ratboy
+1              Last Emperor, The
+1              Coming Home
+1              Death Valley Days, No Gun Behind His Badge
+1              Stavisky
+1              Wagonmaster
+1              Holocaust
+0              Employee's Entrance
+0              Bank on the Stars
+0              Ninja, the Violent Sorcerer
+0              Shalako
+0              Nightmare at Noon
+0              Airport
+0              White Lightning
+0              A Chorus of Disapproval
+0              Shout at the Devil
+0              It's My Turn
+0              After the Rehearsal
+0              Desert Rider
+0              Flame & the Arrow, The
+0              Anna Christie
+0              Tales of Tomorrow
+0              Drop Kick, The
+0              Hot Child in the City
+0              Knights & Emeralds
